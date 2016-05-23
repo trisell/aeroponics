@@ -5,8 +5,8 @@ Centeralized plan to create a vertical aeroponics tube system. This system is de
 
 
 ###Tutorials / Design Ideas
-####[6 inch ABS Aeroponic System](http://www.rollitup.org/t/building-a-6-inch-pvc-aeroponics-tube-system.18312/)
-
+[6 inch ABS Aeroponic System](http://www.rollitup.org/t/building-a-6-inch-pvc-aeroponics-tube-system.18312/)
+#####* Things I Like
 ### Links to design parts and tutorials
 
 
