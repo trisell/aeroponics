@@ -22,4 +22,4 @@ Centeralized plan to create a vertical aeroponics tube system. This system is de
 * [Blue 160psi rated pex tubing](http://www.homedepot.com/p/SharkBite-1-2-in-x-100-ft-Blue-PEX-Pipe-U860B100/202033010)
 * [1/4in 165ps rated feeder tubing](http://www.homedepot.com/p/Sioux-Chief-1-4-in-x-0-170-in-x-25-ft-Polyethylene-Tubing-901-03020W00251/202257563)
 * [One type of HP nozzle](http://www.biocontrols.com/secure/shop/category.aspx?catid=9)
-* [Brass Misting HP nozzle](http://www.ebay.com/itm/0-3mm-Brass-Fog-Mist-Nozzle-Fogging-High-Pressure-Fogging-Misting-Spray-Head/191650700587?_trksid=p2141725.c100338.m3726&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20150313114020%26meid%3Daded471e96774199b0efc36ec77f0253%26pid%3D100338%26rk%3D12%26rkt%3D18%26sd%3D191681159939)
+* [Brass Misting HP nozzle](http://www.ebay.com/itm/Adjustable-Misting-Nozzle-Gardening-Watering-Brass-Spray-Sprinkler-Sprayer-5pcs/231623799577?rt=nc&_soffid=5014158600&_soffType=SaleEvent&_soffSubType=SALE_EVENT&_trksid=p5731.m3795)
